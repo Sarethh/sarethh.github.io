@@ -1,0 +1,23 @@
+body{
+	overflow-y: scroll;
+	padding: 0;
+	margin: 0;
+	font-family: dogicapixel;
+	font-size: 22px;
+	width: 1920px;
+	margin: 60px auto;
+	text-align: center;
+}
+
+@font-face {
+  font-family: "DogicaPixel";
+  src: url("dogicapixel.eot"); /* IE9 Compat Modes */
+  src: url("dogicapixel.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("dogicapixel.otf") format("opentype"), /* Open Type Font */
+    url("dogicapixel.svg") format("svg"), /* Legacy iOS */
+    url("dogicapixel.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("dogicapixel.woff") format("woff"), /* Modern Browsers */
+    url("dogicapixel.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
