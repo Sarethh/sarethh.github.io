@@ -1,12 +1,7 @@
 body{
-	overflow-y: scroll;
-	padding: 0;
-	margin: 0;
+
 	font-family: dogicapixel;
-	font-size: 22px;
-	width: 1920px;
-	margin: 60px auto;
-	text-align: center;
+
 }
 
 @font-face {
