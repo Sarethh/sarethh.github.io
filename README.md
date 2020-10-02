@@ -1,2 +1,2 @@
 # sarethh.github.io
-halo
+https://sarethh.github.io/
