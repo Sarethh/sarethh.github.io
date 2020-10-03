@@ -1,3 +1,11 @@
+.heading1{
+	padding-left:6.9%;
+	margin-top:2%
+}
+.text1{
+	font-size:20px;
+	padding-left:4.5%;
+}
 .image1{
 padding-left: 4%;
 max-width:100%;
@@ -17,4 +25,28 @@ height:auto;
 a:-webkit-any-link
 {
   text-decoration: none;
+}
+@media (min-width: 2000px) {
+	.heading1{
+		padding-left:6.5%;
+		margin-top:2%
+	}
+}
+@media (max-width: 1400px) {
+	.heading1{
+		padding-left:8%;
+		margin-top:2%
+	}
+}
+@media (max-width: 1100px) {
+	.heading1{
+		padding-left:9%;
+		margin-top:2%
+	}
+}
+@media (max-width: 600px) {
+	.heading1{
+		padding-left:15%;
+		margin-top:2%
+	}
 }
