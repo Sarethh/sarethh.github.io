@@ -65,4 +65,12 @@ a:-webkit-any-link
 	.image2{
 		margin-left:8%;
 	}
+	.gamesbackcolor
+	{
+	position:absolute;
+	TOP:0px;
+	Left:20px;
+	width:400px;
+	z-index:-1;
+	}
 }
