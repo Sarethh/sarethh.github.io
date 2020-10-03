@@ -1,0 +1,20 @@
+.image1
+{margin-left: 125px;
+max-width:100%;
+height:auto;
+}
+.image2
+{
+margin-left:90px;
+max-width:100%;
+height:auto;
+}
+.image3
+{
+max-width:100%;
+height:auto;
+}
+a:-webkit-any-link
+{
+  text-decoration: none;
+}
