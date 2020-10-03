@@ -46,7 +46,16 @@ a:-webkit-any-link
 }
 @media (max-width: 600px) {
 	.heading1{
-		margin-left:15%;
+		margin-left:30%;
 		margin-top:2%
+	}
+	.text1{
+		margin-left:20%;
+	}
+	.image1{
+		margin-left:15%;
+	}
+	.image2{
+		margin-left:9%;
 	}
 }
